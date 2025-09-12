@@ -56,7 +56,7 @@
 
 - 📘 [Java REST API Template](https://github.com/rehan-ssh/java-rest-api): Spring Boot starter with JWT auth
 - 🧠 [React Task Tracker](https://github.com/rehan-ssh/react-task-tracker): A clean and functional to-do app
-- 🧩 [DSA Snippets](https://github.com/rehan-ssh/code/java/dsa): Java implementations of important dsa problems
+- 🧩 [DSA Snippets](https://github.com/rehan-ssh/code/tree/master/java/dsa): Java implementations of important dsa problems
 - 🌐 [Portfolio Site](https: //github.com/rehan-ssh/portfolio): My personal site built with React and styled-components
 
 ---
