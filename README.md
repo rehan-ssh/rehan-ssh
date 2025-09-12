@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **full-stack React + Java projects**
 - 🌱 Learning **TypeScript**, **Next.js**, and **Docker**
-- 💬 Ask me about **Java, Javascript React, Git, and algorithm design**
+- 💬 Ask me about **Java, Javascript, React, Git, and algorithm design**
 - ⚡ Fun fact: I treat solving algorithms like solving real-world puzzles 🧩
 
 ---
