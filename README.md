@@ -19,8 +19,8 @@
 
 #### 🔹 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### 🔹 Frameworks & Libraries
@@ -55,7 +55,7 @@
 
 - 📘 [Java REST API Template](https://github.com/rehan-ssh/java-rest-api): Spring Boot starter with JWT auth
 - 🧠 [React Task Tracker](https://github.com/rehan-ssh/react-task-tracker): A clean and functional to-do app
-- 🧩 [DSA Snippets](https://github.com/rehan-ssh/dsa-snippets): Reusable Java/JS implementations of common algorithms
+- 🧩 [DSA Snippets](https://github.com/rehan-ssh/code/tree/master/java/dsa): Java implementations of important dsa problems
 - 🌐 [Portfolio Site](https: //github.com/rehan-ssh/portfolio): My personal site built with React and styled-components
 
 ---
