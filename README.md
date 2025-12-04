@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Rehan Shaikh</h1>
+<h1 align="center">Hi 👋, I am Rehan</h1>
 <h3 align="center">Full-Stack Developer | React ⚛️ | Java ☕ | DSA Enthusiast</h3>
 
 <p align="center">
@@ -10,10 +10,8 @@
 ### 💡 About Me
 
 - 🔭 I’m currently working on **full-stack React + Java projects**
-- 🧠 I practice **DSA regularly on LeetCode and Scaler**
-- 🌱 Learning **TypeScript**, **Next.js**, and **Docker**
-- 💬 Ask me about **Java, React, Git, and algorithm design**
-- ⚡ Fun fact: I treat solving algorithms like solving real-world puzzles 🧩
+- 🌱 Next I will be learning more about cloud and kubernetes as it interests me 
+- 💬 Ask me about **Java, JavaScript, React, Git, and algorithm design**
 
 ---
 
