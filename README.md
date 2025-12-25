@@ -40,14 +40,12 @@
 
 ### 🧠 DSA Practice
 
-- 🔢 Solved **300+ problems** on platforms like LeetCode, GeeksforGeeks, and HackerRank
-- 💥 Strong grip on **Trees, Graphs, DP, Recursion, Linked Lists**
-- 🧪 Favorite topics: **Greedy Algorithms**, **Sliding Window**, **Backtracking**
+- 💥 Strong grip on **Trees, Graphs, DP, Recursion, Linked Lists, Backtracking**
+- 🧪 Favorite topics: **Monotonic Stack**, **Sliding Window**
 
-#### 🚀 Profiles
+#### 🚀 LinkedIn Profile
 
-- [LeetCode](https://leetcode.com/your-username)
-- [Linkedin](https://linkedin.com/in/your-linkedin)
+- [Linkedin](https://www.linkedin.com/in/rehan-shaikh-b11466154)
 
 ---
 
@@ -59,7 +57,3 @@
 - 🌐 [Portfolio Site](https: //github.com/rehan-ssh/portfolio): My personal site built with React and styled-components
 
 ---
-
-### ⭐ Show Some Love
-
-If you like my work or find it useful, please consider giving a ⭐ to my repositories and following me!
